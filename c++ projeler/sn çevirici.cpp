@@ -1,3 +1,6 @@
+//girilen saniyeyi; saat, dakika ve saniye şeklinde çıktı verir.
+
+
 #include <iostream>
 using namespace std;
 int main() {
